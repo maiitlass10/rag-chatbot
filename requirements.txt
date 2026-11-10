@@ -1,0 +1,7 @@
+anthropic>=2.6.0
+numpy>=2.0
+pypdf>=5.0
+python-docx>=1.1
+streamlit>=1.40
+python-dotenv>=1.0
+sentence-transformers>=3.0  # local multilingual embeddings (optional: falls back to a hashing embedder)
